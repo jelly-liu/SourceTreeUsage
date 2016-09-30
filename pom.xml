@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.jelly</groupId>
-  <artifactId>sourceTreeUsage</artifactId>
+  <artifactId>SourceTreeUsage</artifactId>
   <version>1.0-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>sourceTreeUsage</name>
+  <name>SourceTreeUsage</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -24,7 +24,7 @@
   </dependencies>
 
   <build>
-    <finalName>sourceTreeUsage</finalName>
+    <finalName>SourceTreeUsage</finalName>
     <resources>
       <resource>
         <directory>src/main/java</directory>
